@@ -1,0 +1,2 @@
+- Hi, I’m @LukasFehring
+- I’m currently studying at Universität Paderborn and interested in various aspect of CS
