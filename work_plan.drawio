@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T09:47:39.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mhl-UqlRPfmsbEnlv1-6" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-16T09:56:02.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="tNXQEM4hOl3gEfpBZIme" version="15.9.6" type="github">
   <diagram name="Page-1" id="2c4490ee-f0b8-94ab-5012-d5dc3445f7a3">
     <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
           <mxGeometry x="1400" y="620" width="340.00000000000006" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OITDRaYUlJs_esaPdnm7-188" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="640" width="340.00000000000006" height="19" as="geometry" />
+          <mxGeometry x="1400" y="640" width="340" height="19" as="geometry" />
         </mxCell>
         <mxCell id="OITDRaYUlJs_esaPdnm7-189" value="" style="align=left;strokeColor=#CCCCCC;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="659" width="340.00000000000006" height="20" as="geometry" />
@@ -310,56 +310,80 @@
         <mxCell id="OITDRaYUlJs_esaPdnm7-207" value="Writing" style="strokeWidth=1;fontStyle=0;html=1;horizontal=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry y="640" width="40" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7a8b956e7d50b54d-358" value="Binary Decision Tree and Cutoff" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="7a8b956e7d50b54d-358" value="Binary Decision Tree, Cutoff" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="40" y="480" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-215" value="Dummy Tree with Regr Loss" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-215" value="Dummy Tree with Regr Loss" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-216" value="Add Regression Losses" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-216" value="Add Regression Losses" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="380" y="520" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-217" value="Add Ranking Losses" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-217" value="Add Ranking Losses" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="550" y="540" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-218" value="Run and Database Connection" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-218" value="Run and Database Connection" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="720" y="560" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-219" value="Run experiments" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="890" y="580" width="170" height="20" as="geometry" />
+        <mxCell id="OITDRaYUlJs_esaPdnm7-220" value="Modify Proposal for Thesis" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="340" height="19.5" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-220" value="Modify Proposal for Thesis" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="40" y="639.5" width="340" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-221" value="Write Basic Evaluation Part" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-221" value="Write Basic Evaluation Part" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="380" y="659.5" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OITDRaYUlJs_esaPdnm7-222" value="Implement evaluation metrics" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1060" y="600" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-223" value="Run evaluations" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="620" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-204" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="OITDRaYUlJs_esaPdnm7-187">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="639" as="sourcePoint" />
-            <mxPoint x="860" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-224" value="Research Evaluation Structure" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-224" value="Research Evaluation Structure" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="720" y="679.5" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-225" value="Describe Evaluation process in detail" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="719" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OITDRaYUlJs_esaPdnm7-226" value="Proofreadiong and Buffer" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1400" y="758.5" width="340" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-227" value="Describe Experiments" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="738.5" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OITDRaYUlJs_esaPdnm7-228" value="Main Part" style="align=left;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="OITDRaYUlJs_esaPdnm7-228" value="Main Part" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="890" y="699" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-230" value="Implement evaluation metrics" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="599.5" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-233" value="Implement Evaluation Metrics" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="599.5" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-234" value="Run Experiments" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="890" y="580.25" width="170" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-235" value="Run and Database Connection" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-236" value="Add Ranking Losses" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="550" y="540" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-237" value="Add Regression Losses" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="520" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-238" value="Dummy Tree with Regr. Loss" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="500" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-239" value="Binary Decision Tree, Cutoff" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-240" value="Proofreadiong and Buffer" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="758.5" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-241" value="Experiment Description" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="740" width="170" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-242" value="Evaluation Process" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="720" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-232" value="Run Evaluations" style="align=center;strokeColor=#6c8ebf;html=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="620.5" width="170" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OITDRaYUlJs_esaPdnm7-204" value="" style="endArrow=none;html=1;rounded=0;entryX=0.994;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;exitX=0.001;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OITDRaYUlJs_esaPdnm7-165" target="OITDRaYUlJs_esaPdnm7-187">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="639" as="sourcePoint" />
+            <mxPoint x="860" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
