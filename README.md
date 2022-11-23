@@ -1,2 +1,3 @@
 - Hi, I’m @LukasFehring
-- I’m currently studying at Universität Paderborn and interested in various fields of CS
+- I recently stareted started the masters programm at Leibniz Uni Hannover
+- I am also part of the development of the libaries ml4pdm (machine learning for predictive maintanance) and py_experimenter
